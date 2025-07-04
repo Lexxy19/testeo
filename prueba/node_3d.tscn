@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://p1pidmihryg6"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_4xowi"]
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_a202f"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+material_override = SubResource("StandardMaterial3D_4xowi")
+mesh = SubResource("CylinderMesh_a202f")
