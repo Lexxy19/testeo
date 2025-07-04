@@ -6,7 +6,7 @@
 [node name="Node3D" type="Node3D"]
 
 [node name="pitototote" parent="." instance=ExtResource("1_a202f")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.36655, -1.02894, -2.72251)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.20181, -0.931213, -0.330665)
 
 [node name="pitote" parent="." instance=ExtResource("2_noarx")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.0505, 0, 4.96125)
